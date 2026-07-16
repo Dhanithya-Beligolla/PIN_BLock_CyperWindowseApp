@@ -59,3 +59,4 @@ SECURITY NOTE
 -------------
 Use only with authorized TEST/UAT values. The application does not write entered
 values to files, but copying a result places it on the Windows clipboard.
+................................................................................
