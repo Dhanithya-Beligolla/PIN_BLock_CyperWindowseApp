@@ -4,7 +4,7 @@ PIN BLOCK DECRYPTER - GUI PROJECT
 FILES
 -----
 PINBlockDecrypterApp.java
-    Main Java Swing GUI application.
+    Main Java Swing GUI application build for windows Installer.
 
 PBD.png
     Application window icon.
