@@ -7,6 +7,8 @@ import java.awt.*;
 import java.awt.datatransfer.StringSelection;
 import java.util.Locale;
 
+// test comment
+
 public class PINBlockDecrypterApp extends JFrame {
 
     private static final String APP_VERSION = "1.0.1";
